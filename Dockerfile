@@ -1,5 +1,5 @@
-FROM greyltc/lamp
-MAINTAINER Grey Christoforo <grey@christoforo.net>
+FROM neuroticdave/lamp
+MAINTAINER neuroticdave
 # Report issues with this to the GitHub project: https://github.com/greyltc/docker-nextcloud/issues
 # Say thanks by adding a star or a comment here: https://registry.hub.docker.com/u/greyltc/nextcloud/
 # and/or starring the project on GitHub
